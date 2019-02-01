@@ -1,3 +1,4 @@
 http://localhost:8080/EventTracker/
 http://localhost:8080/EventTracker/greeting.html
 http://localhost:8080/EventTracker/pdfs/helloworld.pdf
+http://localhost:8080/EventTracker/event.html
